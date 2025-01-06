@@ -13,7 +13,7 @@ This is a Project Management Application built with React, Redux, TypeScript, an
 
 1. Clone the repository:
 
-    git clone <https://github.com/your-username/project-management-app.git>
+    git clone https://github.com/mabuzar07/project-management-demo.git
     cd project-management-app
 
 2. Install dependencies:
